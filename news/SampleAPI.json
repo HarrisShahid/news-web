@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Reuters",
+        "title": "Passenger plane flying from Azerbaijan to Russia crashes in Kazakhstan with many feared dead - Reuters",
+        "description": null,
+        "url": "https://www.reuters.com/world/asia-pacific/passenger-plane-crashes-kazakhstan-emergencies-ministry-says-2024-12-25/",
+        "urlToImage": null,
+        "publishedAt": "2024-12-25T08:19:37Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "South Korea’s Yoon defies second summons over martial law decree - Al Jazeera English",
+        "description": "Embattled leader fails to appear for questioning over short-lived declaration of martial law for second time in a week.",
+        "url": "https://www.aljazeera.com/news/2024/12/25/south-koreas-yoon-defies-second-summons-over-martial-law-decree",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/AP24347134143212-1735100055.jpg?resize=1920%2C1440",
+        "publishedAt": "2024-12-25T05:33:54Z",
+        "content": "Impeached South Korean President Yoon Suk-yeol has defied a summons to appear for questioning over his short-lived declaration of martial law for the second time in a week.\r\nYoon did not appear for q… [+1202 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Winning numbers drawn for Mega Millions $1 billion Christmas Eve jackpot - ABC News",
+        "description": null,
+        "url": "https://abcnews.go.com/US/mega-millions-jackpot-christmas-eve-drawing/story?id\\\\u003d117087722",
+        "urlToImage": null,
+        "publishedAt": "2024-12-25T03:45:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Aaron Gregg, Dan Diamond",
+        "title": "American Airlines flights resume after brief halt over computer issue - The Washington Post",
+        "description": "The company said the ground stop was caused by a technology issue with one of its vendors which impacted a key system.",
+        "url": "https://www.washingtonpost.com/transportation/2024/12/24/american-airlines-flights-halted-christmas-eve-technical-issue/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B5G3RT7QP3NPJGKME3C3ICOVUY.JPG&w=1440",
+        "publishedAt": "2024-12-25T03:37:30Z",
+        "content": "American Airlines grounded all of its U.S. flights for about an hourTuesday morning after a glitch with its flight operations system, leading to widespread flight delays.\r\nThe flight-tracking website… [+306 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "TOI World Desk",
+        "title": "How astronauts stuck in space end up with Santa hats for Christmas? Internet flooded with conspiracy theo - The Times of India",
+        "description": "US News: NASA astronauts Butch Wilmore and Sunita Williams wore Santa hats in space this Christmas, sparking internet theories. NASA reveals the festive decorations were part of a holiday resupply mission, bringing cheer to astronauts stranded aboard the ISS.",
+        "url": "https://timesofindia.indiatimes.com/world/us/how-astronauts-stuck-in-space-ended-up-with-santa-hats-for-christmas-internet-flooded-with-questions-and-conspiracy-theories/articleshow/116644960.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-116646156,width-1070,height-580,imgsize-60224,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2024-12-25T02:58:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KSBW The Central Coast"
+        },
+        "author": "Zoe Hunt",
+        "title": "High swells leave a wake of destruction at the Santa Cruz Harbor - KSBW Monterey",
+        "description": "Boat owners in Santa Cruz spend their Christmas Eve working to salvage whatever they can.",
+        "url": "https://www.ksbw.com/article/high-swells-wake-destruction-santa-cruz-harbor/63276160",
+        "urlToImage": "https://kubrick.htvapps.com/vidthumb/7f874193-5205-4525-a694-9ab4abf5957e/0bb822b5-fe07-48aa-9554-c9075fd5fc58.jpg?crop=0.780xw:0.777xh;0,0&resize=1200:*",
+        "publishedAt": "2024-12-25T02:17:00Z",
+        "content": "SANTA CRUZ, Calif. —The Santa Cruz Harbor is still in shambles after Mondays high swells left behind an aftermath of devastating damage. \r\nFrom torn-apart docks and floating debris to sinking boats, … [+2067 chars]"
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "The Wall Street Journal",
+        "title": "Netflix’s Christmas NFL Playbook: Keep Fans—and the League—Happy - The Wall Street Journal",
+        "description": null,
+        "url": "https://www.wsj.com/business/media/netflixs-christmas-nfl-playbook-keep-fansand-the-leaguehappy-e7d1ca68",
+        "urlToImage": null,
+        "publishedAt": "2024-12-25T02:00:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": "Associated Press",
+        "title": "Pope Francis kicks off yearlong Jubilee - POLITICO",
+        "description": "It will test his stamina and Rome’s patience.",
+        "url": "https://www.politico.com/news/2024/12/24/pope-francis-kicks-off-yearlong-jubilee-00196017",
+        "urlToImage": "https://static.politico.com/d9/90/a5118f644d2ab0d12417de40f439/vatican-pope-christmas-holy-year-59411.jpg",
+        "publishedAt": "2024-12-25T01:45:00Z",
+        "content": "The ceremony inaugurated the once-every-25-year tradition of a Jubilee, in which the Catholic faithful make pilgrimages to Rome.\r\nFrancis has dedicated the 2025 Jubilee to the theme of hope, and he w… [+3440 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Denmark boosts Greenland defence after Trump repeats desire for US control - BBC.com",
+        "description": "The huge package is announced after the president-elect said US ownership of Greenland was a \"necessity\".",
+        "url": "https://www.bbc.com/news/articles/ckgzl19n9eko",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ecf5/live/73b24990-c224-11ef-aff0-072ce821b6ab.jpg",
+        "publishedAt": "2024-12-25T01:35:40Z",
+        "content": "The Danish government has announced a huge boost in defence spending for Greenland, hours after US President-elect Donald Trump repeated his desire to purchase the Arctic territory.\r\nDanish Defence M… [+3090 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "OregonLive"
+        },
+        "author": "Maxine Bernstein | The Oregonian/OregonLive",
+        "title": "House cat in Washington County died after contracting bird flu from raw frozen pet food - OregonLive",
+        "description": "The state issued an alert Christmas Eve about Morasch Meats of Portland’s voluntary recall of Northwest Naturals’ two-pound feline turkey recipe.",
+        "url": "https://www.oregonlive.com/health/2024/12/house-cat-in-washington-county-died-after-contracting-bird-flu-from-raw-frozen-pet-food.html",
+        "urlToImage": "https://www.oregonlive.com/resizer/v2/SJWSRFG4AVAMDM7LQEKRHU7H74.jpg?auth=b6ab35e520772c034837385f60ee696967f662a0a32ebe17b1a0e6978ec72a2c&width=1280&quality=90",
+        "publishedAt": "2024-12-25T01:09:00Z",
+        "content": "A house cat in Washington County contracted bird flu and died after eating Northwest Naturals raw frozen pet food, according to the Oregon Department of Agriculture.\r\nThe state issued an alert Christ… [+1562 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Hannah Sparks",
+        "title": "Christmas Day aurora borealis could light up parts of the US - New York Post ",
+        "description": "A massive solar flare this week may prompt a Northern Lights display on Dec. 25.",
+        "url": "https://nypost.com/2024/12/24/science/christmas-day-aurora-borealis-could-light-up-parts-of-the-us/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/aurora-borealis-comp-1.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2024-12-25T01:00:00Z",
+        "content": "The sun sends us gifts of a dazzling show of light come Christmas night.\r\nSkywatchers are anticipating a possible aurora borealis for parts of the US on Dec. 25 following a solar flare that spewed a … [+1410 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "FantasyPros"
+        },
+        "author": null,
+        "title": "6 Fantasy Football Lineup Landmines: Start/Sit Advice (Week 17) - FantasyPros",
+        "description": "Fantasy Football Lineup Landmines: Start/Sit Advice. These six players could blow up in your face in fantasy football Week 17.",
+        "url": "https://www.fantasypros.com/2024/12/fantasy-football-lineup-landmines-start-sit-advice-week-17/?ref=upstract.com",
+        "urlToImage": "https://cdn.fantasypros.com/wp-content/images/Rico_Dowdle-1/1470x650.jpg",
+        "publishedAt": "2024-12-25T00:58:26Z",
+        "content": "Arguably, the most frustrating thing in fantasy football is seeing someone in your starting lineup struggle that week. Therefore, the logic behind this article is simple identify fantasy football lin… [+7043 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Deadline"
+        },
+        "author": "Dessi Gomez",
+        "title": "‘Shrinking’ Co-Creator Bill Lawrence Breaks Down Season 2 Ending, Thanksgiving Montage And Season 3 Theme - Deadline",
+        "description": "'Shrinking' co-creator Bill Lawrence breaks down the ending of Season 2 as well as the theme for Season 3.",
+        "url": "http://deadline.com/2024/12/shrinking-season-2-ending-explained-bill-lawrence-interview-1236242069/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2024/12/Shrinking_Photo_021209.jpg?w=1024",
+        "publishedAt": "2024-12-25T00:23:00Z",
+        "content": "SPOILER ALERT: This piece spoils the finale of Shrinking Season 2.\r\nSanta came early this year. All of Shrinking Season 2 is now available to stream on Apple TV+ with the finale launching on Christma… [+12698 chars]"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": "Associated Press",
+        "title": "NORAD’s Santa tracker was a Cold War morale boost. Now it attracts millions of kids. - POLITICO",
+        "description": "“There are screams and giggles and laughter,” said Bob Sommers, a civilian contractor and NORAD volunteer.",
+        "url": "https://www.politico.com/news/2024/12/24/norad-santa-tracker-cold-war-morale-boost-now-for-kids-00196027",
+        "urlToImage": "https://static.politico.com/49/d6/d35b40e64856b6da29dc49c49295/norad-santa-tracker-98703.jpg",
+        "publishedAt": "2024-12-25T00:22:00Z",
+        "content": "There are screams and giggles and laughter, said Bob Sommers, 63, a civilian contractor and NORAD volunteer.\r\nSommers often says on the call that everyone must be asleep before Santa arrives, prompti… [+3595 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Sabrina Malhi",
+        "title": "U.S. whooping cough cases soar to highest level in a decade - The Washington Post",
+        "description": "More than 32,000 cases have been reported this year, nearly five times as many as the same period last year.",
+        "url": "https://www.washingtonpost.com/health/2024/12/24/whooping-cough-cases-us-record-outbreak/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IJSOVQEBMI6ZM6EYRRLD3OPZA.jpg&w=1440",
+        "publishedAt": "2024-12-25T00:05:22Z",
+        "content": "Whooping cough continues to surge in the United States, with reported cases soaring to more than 32,000 this year nearly five times the 6,500 cases recorded during the same period last year marking t… [+181 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hollywood Reporter"
+        },
+        "author": "Kevin Dolak",
+        "title": "Justin Baldoni Hit With Breach of Contract Suit From Ex-Publicist After Blake Lively Accusations - Hollywood Reporter",
+        "description": "The actor and filmmaker is being sued by his co-star over alleged sexual misconduct on the set of ‘It Ends With Us.’",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/justin-baldoni-lawsuit-steph-jones-blake-lively-publicist-1236093763/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/12/GettyImages-2165117782-H-2024.jpg?w=1296&h=730&crop=1",
+        "publishedAt": "2024-12-24T23:49:52Z",
+        "content": "Hollywood publicist Steph Jones has accused her former client, filmmaker and actor Justin Baldoni, of breach of contract in a lawsuit filed against him in New York this week, just days after hisIt En… [+2342 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "PBS"
+        },
+        "author": null,
+        "title": "Trump says he will pursue more executions after Biden commutes most of federal death row - PBS NewsHour",
+        "description": "Trump criticized Biden’s decision on Monday to change the sentences of 37 of the 40 condemned people to life in prison without parole.",
+        "url": "https://www.pbs.org/newshour/politics/trump-says-he-will-pursue-more-executions-after-biden-commutes-most-of-federal-death-row",
+        "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/12/2024-12-23T201356Z_236807978_RC2HUBAGSZ7Q_RTRMADP_3_USA-TRUMP-PANAMA-1024x715.jpg",
+        "publishedAt": "2024-12-24T23:44:18Z",
+        "content": "FORT LAUDERDALE, Fla. (AP) President-elect Donald Trump promised on Tuesday to “vigorously pursue” capital punishment after President Joe Biden commuted the sentences of most people on federal death … [+5179 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "DARLENE SUPERVILLE Associated Press",
+        "title": "Biden signs a bill officially making the bald eagle the national bird of the US - ABC News",
+        "description": "President Joe Biden has made it official: The bald eagle is now the national bird of the United States",
+        "url": "https://abcnews.go.com/US/wireStory/biden-signs-bill-officially-making-bald-eagle-national-117097174",
+        "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+        "publishedAt": "2024-12-24T23:38:55Z",
+        "content": "WASHINGTON -- The bald eagle, a symbol of the power and strength of the United States for more than 240 years, earned an overdue honor on Tuesday: It officially became the country's national bird. \r\n… [+939 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "MORGAN LEE",
+        "title": "The end of the ‘Rust’ criminal case against Alec Baldwin may unlock a civil lawsuit - The Associated Press",
+        "description": "The conclusion of a criminal case against Alec Baldwin in the fatal shooting of a cinematographer may clear the way for a related civil lawsuit by relatives of the deceased woman and efforts to depose the actor under oath. Attorneys for the parents and sister…",
+        "url": "https://apnews.com/article/baldwin-rust-movie-set-shooting-civil-lawsuit-011fe92a12fb93c2d70a1e87bb58a2c6",
+        "urlToImage": "https://dims.apnews.com/dims4/default/d6ebcf8/2147483647/strip/true/crop/5572x3134+0+290/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3e%2F82%2Fb4d84874be32730ea28b3b3c3b43%2Fe45991de296040f0aea3b05b7df36520",
+        "publishedAt": "2024-12-24T23:18:00Z",
+        "content": "SANTA FE, N.M. (AP) The conclusion of a criminal case against Alec Baldwin in the fatal shooting of a cinematographer clears the way for a related civil lawsuit by relatives of the deceased woman and… [+2892 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Three shot dead as gunmen attack Haiti's biggest hospital - BBC.com",
+        "description": "Many others are injured when armed men fire at medical staff, police and reporters in Port-au-Prince.",
+        "url": "https://www.bbc.com/news/articles/cx2vpdnd2jmo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dc51/live/96a45d10-c249-11ef-a2ca-e99d0c9a24e3.jpg",
+        "publishedAt": "2024-12-24T23:12:45Z",
+        "content": "At least three people have been killed when armed men in Haiti opened fire at medical staff, police and journalists during a briefing to announce the reopening of the country's biggest public hospita… [+1388 chars]"
+      }
+    ]
+  }
